@@ -2,8 +2,12 @@
 more to come.
 
 <p align="center">
-  <img width="200" height="200" src="https://i.imgur.com/46v6bQZ.png">
+  <img width="150" height="150" src="https://i.imgur.com/46v6bQZ.png">
 </p>
+<br>
+last updated <b>01/05/2023</b>
+</p>
+
 
 
 # [asdf](https://drive.google.com/file/d/1J6p_pavHMGszWg8C42c303vbOuRC-mZ6/view)
