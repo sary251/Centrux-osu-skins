@@ -2,7 +2,7 @@
 more to come.
 
 <p align="center">
-  <img width="400" height="400" src="https://i.imgur.com/46v6bQZ.png">
+  <img width="200" height="200" src="https://i.imgur.com/46v6bQZ.png">
 </p>
 
 
