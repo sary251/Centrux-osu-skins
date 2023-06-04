@@ -1,7 +1,9 @@
 # Centrux-osu-skins
 more to come.
 
-<h1 align="center">![Alt text](https://https://i.imgur.com/46v6bQZ.png://full/path/to/img.jpg "Optional title")</h1>
+<p align="center">
+  <img width="460" height="300" src="https://i.imgur.com/46v6bQZ.png">
+</p>
 
 
 # [asdf](https://drive.google.com/file/d/1J6p_pavHMGszWg8C42c303vbOuRC-mZ6/view)
