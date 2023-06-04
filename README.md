@@ -18,7 +18,7 @@ more to come.
 
 <p align="center">
   <br></br>
-  <a href="https://www.twitch.tv/rudj_">
+  <a href="https://www.twitch.tv/centruxen">
   <img src="https://i.imgur.com/HM030lk.png" 
        width="100" 
        height="100"></a>
