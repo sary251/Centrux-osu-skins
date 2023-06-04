@@ -1,10 +1,8 @@
 # Centrux-osu-skins
 more to come.
 
+<h1 align="center">Material Bread</h1>
 
-<p align="center">
-// https://i.imgur.com/46v6bQZ.png
-</p>
 
 # [asdf](https://drive.google.com/file/d/1J6p_pavHMGszWg8C42c303vbOuRC-mZ6/view)
 ![Alt text](https://i.imgur.com/kNKlmSe.jpg://full/path/to/img.jpg "Optional title")
