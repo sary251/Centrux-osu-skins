@@ -1,10 +1,7 @@
 # Centrux-osu-skins
 more to come.
 
-<p align="center">
-  <img width="150" height="150" src="https://i.imgur.com/46v6bQZ.png">
-</p>
-<h1 align="center">Last updated 6/4/2023</h1>
+<h1 align="center">Last updated 11/7/2023</h1>
 
 
 # [asdf](https://drive.google.com/file/d/1J6p_pavHMGszWg8C42c303vbOuRC-mZ6/view)
